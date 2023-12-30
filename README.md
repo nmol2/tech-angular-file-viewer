@@ -1,4 +1,8 @@
+# tech-angular-file-viewer
+file viewer for angular apps, can integrate with any web app
+
 # file-viewer
+
 # NgFileViewer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
